@@ -21,14 +21,19 @@
     color: #000000;
 }
 .week_button{
-    
+    color: #1E3023;
     background: #FFFFFF;
     border: 1px solid #E09167;
-    color: black;
     margin: 3.4%;
     margin-top: 26%;
     padding: 2%;
     border-radius: 29px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 9.68px;
+    margin-left: 5%;
+
 
 }
 .line{
